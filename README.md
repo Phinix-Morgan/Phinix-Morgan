@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Phinix-Morgan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
-  <br><br>
-
   <!-- Hero GIF -->
   <img src="https://media.giphy.com/media/qgQUggACpCjo6iPacb/giphy.gif" width="600" alt="Coding gif" />
 
@@ -16,10 +11,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
   </h1>
   
-  <p><i>🚀 A passionate developer diving deep into <b>Artificial Intelligence</b> & <b>Machine Learning</b>.</i></p>
+  <p><i>🔥 A developer chasing mastery in <b>AI & Machine Learning</b> — with unwavering resolve.</i></p>
 
-  <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Lifelong+Learner;Building+Future+with+Code" alt="Typing SVG" />
+  <!-- Typing Effect (Sasuke-inspired) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Walking+my+own+path.;Power+comes+from+discipline.;Eyes+set+on+infinity.;Code+is+my+Sharingan." alt="Typing SVG" />
 
 </div>
 
@@ -40,23 +35,22 @@
 #### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### ⚡ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🛠️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -85,9 +79,9 @@
 ### 🧠 "Cortex Overclocking" Mode  
 
 > ⚙️ **Quantum Learning Protocol: ACTIVE**  
-> 🚀 **Singularity Absorption:** Hyperspeed learning engaged.  
-> 🧩 **Infinity Brain Framework:** AI innovation underway.  
-> 🌌 **Polymath in the making:** Engineering, AI & Beyond.  
+> 🌌 Walking a path of **relentless focus**, like the lone Uchiha.  
+> 🔥 Discipline, Precision, and Evolution are my weapons.  
+> 🌀 **Code is my Sharingan.**  
 
 ---
 
