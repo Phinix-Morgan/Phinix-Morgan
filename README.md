@@ -13,8 +13,8 @@
   
   <p><i>🔥 A developer chasing mastery in <b>AI & Machine Learning</b> — with unwavering resolve.</i></p>
 
-  <!-- Typing Effect (Sasuke-inspired) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Walking+my+own+path.;Power+comes+from+discipline.;Eyes+set+on+infinity.;Code+is+my+Sharingan." alt="Typing SVG" />
+  <!-- Typing Effect (Sasuke-inspired, but subtle) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Walking+a+path+alone.;Power+demands+discipline.;Focus+is+my+only+ally.;Silence+speaks+louder+than+words." alt="Typing SVG" />
 
 </div>
 
@@ -79,9 +79,9 @@
 ### 🧠 "Cortex Overclocking" Mode  
 
 > ⚙️ **Quantum Learning Protocol: ACTIVE**  
-> 🌌 Walking a path of **relentless focus**, like the lone Uchiha.  
-> 🔥 Discipline, Precision, and Evolution are my weapons.  
-> 🌀 **Code is my Sharingan.**  
+> 🌌 Walking a path carved by solitude and precision.  
+> 🔥 Strength forged in discipline and clarity.  
+> 🕶️ No distractions. No hesitation. Only progress.  
 
 ---
 
