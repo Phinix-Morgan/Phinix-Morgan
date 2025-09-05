@@ -1,9 +1,13 @@
 <div align="center">
 
-  <!-- Hero GIF -->
-  <img src="https://media.giphy.com/media/qgQUggACpCjo6iPacb/giphy.gif" width="600" alt="Coding gif" />
+  <!-- Glitch Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty." alt="Glitch Banner" />
 
-  <br><br>
+</div>
+
+<br><br>
+
+<div align="center">
 
   <!-- Header -->
   <h1>
@@ -11,10 +15,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
   </h1>
   
-  <p><i>🔥 A developer chasing mastery in <b>AI & Machine Learning</b> — with unwavering resolve.</i></p>
+  <p><i>⚡ A developer lost in silence, building futures no one else dares to imagine.</i></p>
 
-  <!-- Typing Effect (Sasuke-inspired, but subtle) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Walking+a+path+alone.;Power+demands+discipline.;Focus+is+my+only+ally.;Silence+speaks+louder+than+words." alt="Typing SVG" />
+  <!-- Typing Effect (Dark / Unsettling) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=Some+paths+are+meant+to+be+walked+alone.;The+quiet+ones+watch+the+deepest.;Power+isn’t+shown—it’s+kept+hidden.;Not+everything+deserves+a+reaction." alt="Typing SVG" />
 
 </div>
 
@@ -60,16 +64,12 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 
-<!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phinix-Morgan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phinix-Morgan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
@@ -79,21 +79,22 @@
 ### 🧠 "Cortex Overclocking" Mode  
 
 > ⚙️ **Quantum Learning Protocol: ACTIVE**  
-> 🌌 Walking a path carved by solitude and precision.  
-> 🔥 Strength forged in discipline and clarity.  
-> 🕶️ No distractions. No hesitation. Only progress.  
+> 🌑 Silence sharpens clarity.  
+> 🕶️ Distance creates strength.  
+> 🔥 Control is not in words — it’s in restraint.  
+> 🌌 Some storms don’t make noise until they arrive.  
 
 ---
 
 ### 🌐 Connect with Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jian-yang-x91/)
-[![Twitter/X](https://img.shields.io/badge/Twitter--X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Phinix_Morgan)
+🔗 **LinkedIn:** A circus where suits parade as saints — I'd rather burn the invite than join the show.  
+🐦 **Twitter/X:** Just another void I occasionally throw thoughts into.  
 
 <br><br>
-🏆 <b>Fun Fact:</b> I might just be building <b>the next big AI startup</b>. 😉  
+🏆 <b>Fun Fact:</b> The closer you get, the less you’ll understand.  
 
-<h3>✨ Let’s create something extraordinary! ✨</h3>
+<h3>✨ Stay aware. Stay distant. ✨</h3>
 
 </div>
