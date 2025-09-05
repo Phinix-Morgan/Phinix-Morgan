@@ -98,13 +98,3 @@
 <h3>✨ Stay aware. Stay distant. ✨</h3>
 
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Phinix-Morgan/Phinix-Morgan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
