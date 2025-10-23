@@ -55,7 +55,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phinix-Morgan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Phinix-Morgan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -88,9 +88,8 @@
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=Phinix-Morgan&style=for-the-badge&color=9400D3" alt="Profile Views"/>
-
-  <br><br>
   
+  <br><br>
   🏆 <b>Fun Fact:</b> The closer you get, the less you’ll understand.
   
   <h3>✨ Stay aware. Stay distant. ✨</h3>
