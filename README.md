@@ -25,17 +25,19 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      ### 🚀 About Me
-      - 👀 Exploring the realms of **Artificial Intelligence & Machine Learning**.
-      - 🌱 Currently mastering **Django** & advanced **ML algorithms**.
-      - 💡 Obsessed with **Neural Networks, Data Science & Automation**.
-      - 💻 Building **real-world AI solutions** with scalable impact.
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>👀 Exploring the realms of <b>Artificial Intelligence & Machine Learning</b>.</li>
+        <li>🌱 Currently mastering <b>Django</b> & advanced <b>ML algorithms</b>.</li>
+        <li>💡 Obsessed with <b>Neural Networks, Data Science & Automation</b>.</li>
+        <li>💻 Building <b>real-world AI solutions</b> with scalable impact.</li>
+      </ul>
     </td>
     <td valign="top" width="50%">
-      ### 💻 My Tech Stack
+      <h3>💻 My Tech Stack</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,js,go,c,django,numpy,pandas,sklearn,nodejs,mysql,postgres,mongodb,git,linux&perline=7" />
+          <img src="https://skillicons.dev/icons?i=python,js,go,c,django,numpy,pandas,sklearn,nodejs,mysql,postgres,mongodb,git,linux&perline=7" alt="Tech Stack" />
         </a>
       </p>
     </td>
@@ -65,7 +67,8 @@
 
 ### 🧠 "Cortex Overclocking" Mode
 
-> ⚙️ **Quantum Learning Protocol: ACTIVE** > 🌑 Silence sharpens clarity.  
+> ⚙️ **Quantum Learning Protocol: ACTIVE**  
+> 🌑 Silence sharpens clarity.  
 > 🕶️ Distance creates strength.  
 > 🔥 Control is not in words — it’s in restraint.  
 > 🌌 Some storms don’t make noise until they arrive.
@@ -84,11 +87,9 @@
 
   <br><br>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Phinix-Morgan&style=for-the-badge&color=9400D3" alt="Profile Views"/>
-  </p>
-  
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=Phinix-Morgan&style=for-the-badge&color=9400D3" alt="Profile Views"/>
+
+  <br><br>
   
   🏆 <b>Fun Fact:</b> The closer you get, the less you’ll understand.
   
