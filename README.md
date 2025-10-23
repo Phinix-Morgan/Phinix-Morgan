@@ -7,20 +7,11 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <h1 align="left">
-        <b>👋 Hi, I'm <span style="color:#8A2BE2;">Phinix Morgan</span></b>
-      </h1>
-      <p><i>⚡ A developer lost in silence, crafting intelligence where others see chaos.</i></p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8A2BE2&center=false&vCenter=true&width=550&lines=Some+paths+are+meant+to+be+walked+alone.;The+quiet+ones+watch+the+deepest.;Power+isn’t+shown—it’s+kept+hidden.;Not+everything+deserves+a+reaction." alt="Typing SVG" />
-    </td>
-    <td valign="top" width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=Phinix%20Stats" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<h1 align="left">
+  <b>👋 Hi, I'm <span style="color:#8A2BE2;">Phinix Morgan</span></b>
+</h1>
+<p><i>⚡ A developer lost in silence, crafting intelligence where others see chaos.</i></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8A2BE2&center=false&vCenter=true&width=550&lines=Some+paths+are+meant+to+be+walked+alone.;The+quiet+ones+watch+the+deepest.;Power+isn’t+shown—it’s+kept+hidden.;Not+everything+deserves+a+reaction." alt="Typing SVG" />
 
 ---
 
@@ -48,6 +39,9 @@
 <h2 align="center">📊 Activity & Insights</h2>
 
 <div align="center">
+  <!-- 🟣 Custom Most Used Languages & GitHub Insights (external screenshot): -->
+  <img src="YOUR_EXTERNAL_IMAGE_LINK_HERE" alt="Most Used Languages and GitHub Insights" width="650" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phinix-Morgan&theme=radical&hide_border=true" alt="GitHub Streak" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="370" />
   <br><br>
