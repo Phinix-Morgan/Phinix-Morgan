@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats
 
-| ![Phinix Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhinixMorgan&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhinixMorgan&layout=compact&theme=tokyonight) |
+| ![Phinix Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=tokyonight) |
 | - | - |
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Phinix-Morgan&theme=tokyonight)
