@@ -37,7 +37,7 @@
         <li>💻 Creating <b>AI-driven systems</b> with real-world impact.</li>
       </ul>
     </td>
-    <td valign="top" width="65%">
+    <td valign="top" width="50%">
       <h3>💻 Tech Stack</h3>
       <p align="center">
         <a href="https://skillicons.dev">
