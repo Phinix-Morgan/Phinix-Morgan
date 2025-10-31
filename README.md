@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="65%">
       <h1>
         <b>Hi, I'm Phinix Morgan</b>
         <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Waving hand" />
@@ -17,7 +17,6 @@
       Silence isn’t absence — it’s compression of infinite thought.</i></p>
     </td>
     <td valign="top" width="40%" align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 15px; box-shadow: 0 0 25px rgba(148,0,211,0.3); padding: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&icon_color=FF69B4" width="380" alt="GitHub Stats" />
       <br><br>
       <img src="https://streak-stats.demolab.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" width="380" alt="GitHub Streak" />
     </td>
