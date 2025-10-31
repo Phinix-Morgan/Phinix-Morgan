@@ -39,6 +39,13 @@
 </div>
 
 
+## 🧠 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" alt="Phinix's Most Used Languages" />
+</div>
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phinix-Morgan&theme=react-dark&bg_color=0D1117&hide_border=true&color=8A2BE2&line=FF69B4&point=FFFFFF" width="100%"/>
 
 </div>
