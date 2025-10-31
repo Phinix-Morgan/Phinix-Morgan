@@ -1,189 +1,103 @@
-<!--
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&height=100&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty.;Phinix+Morgan+//+Silence+in+Motion." alt="Typing Banner" />
+</div>
 
-PHINIX MORGAN - GITHUB PROFILE README THEME: DARK, MYSTICAL, AI/ML
+<br>
 
--->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h1>
+        <b>Hi, I'm Phinix Morgan</b>
+        <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Waving hand" />
+      </h1>
+      <p><i>⚡ <code>dev@silence:~$</code> Building futures no one else dares to imagine.</i></p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9400D3&center=false&vCenter=true&width=550&lines=Some+paths+are+meant+to+be+walked+alone.;The+quiet+ones+watch+the+deepest.;Power+isn’t+shown—it’s+kept+hidden.;Not+everything+deserves+a+reaction." alt="Typing SVG" />
+    </td>
+    <td valign="top" width="35%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=28" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<!-- 1. DYNAMIC TYPING BANNER -->
+---
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🤖 Exploring the realms of <b>Artificial Intelligence & Machine Learning</b>.</li>
+        <li>🧠 Currently mastering <b>Django</b> & advanced <b>ML algorithms</b>.</li>
+        <li>⚙️ Obsessed with <b>Neural Networks, Data Science & Automation</b>.</li>
+        <li>💻 Building <b>real-world AI solutions</b> with scalable impact.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>💻 My Tech Stack</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,js,go,c,django,numpy,pandas,sklearn,nodejs,mysql,postgres,mongodb,git,linux&perline=7" alt="Tech Stack" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808b61450410705a3b957388e365e43a6d/images/line-separator.gif" alt="line separator">
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-<a href="https://github.com/phinixmorgan">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&color=9400D3&center=true&vCenter=true&width=800&lines=Greetings%2C+Seeker+of+Knowledge.;I+am+Phinix+Morgan.;Weaving+the+Arcane+Arts+of+Code+and+AI...;Exploring+the+Abyss+of+Deep+Learning.;...Welcome+to+my+Sanctum." alt="Phinix Morgan - Dynamic Typing SVG" />
-</a>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phinix-Morgan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Phinix-Morgan&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phinix-Morgan&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity Graph" />
 </div>
 
-<!-- 2. PROFILE VIEWS COUNTER -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808b61450410705a3b957388e365e43a6d/images/line-separator.gif" alt="line separator">
 
-<div align="center" style="margin-top: 15px;">
-<img src="https://komarev.com/ghpvc/?username=phinixmorgan&color=6a0dad&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
+<h3 align="center">
+  <a href="#" style="text-decoration:none;color:#9400D3;text-shadow:0 0 10px #9400D3;">🧠 Cortex Overclocking Mode</a>
+</h3>
+
+> ⚙️ **Quantum Learning Protocol: ACTIVE**  
+> 🌑 Silence sharpens clarity.  
+> 🕶️ Distance creates strength.  
+> 🔥 Control is not in words — it’s in restraint.  
+> 🌌 Some storms don’t make noise until they arrive.
+
+<br>
+
+<div align="center">
+  <h3>🌐 Connect with Me</h3>
+  <p>
+    🔗 <b>LinkedIn:</b> A circus where suits parade as saints — I'd rather burn the invite than join the show. <br>
+    🐦 <b>Twitter/X:</b> Just another void I occasionally throw thoughts into.
+  </p>
+  <br>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="YOUR_TWITTER_URL_HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Phinix-Morgan&style=for-the-badge&color=9400D3" alt="Profile Views"/>
+
+  <br><br>
+  
+  🏆 <b>Fun Fact:</b> The closer you get, the less you’ll understand.
+  
+  <hr style="border: none; height: 2px; background: linear-gradient(90deg, #9400D3, #1a1b27, #9400D3);">
+  
+  <h3>✨ Stay aware. Stay distant. ✨</h3>
 </div>
-
-<!-- 3. HEADER TABLE: INTRO & STATS CARD -->
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top: 20px; border: none;">
-<tr style="border: none;">
-<!-- LEFT CELL: INTRODUCTION -->
-<td width="60%" valign="top" style="border: none; padding-right: 10px;">
-<h1 style="font-size: 2.5em; margin-bottom: 0px;">Phinix Morgan</h1>
-<h3 style="font-weight: 500; margin-top: 5px; color: #c9c9c9;">Architect of Intelligent Systems & Deep Development Alchemist</h3>
-<p style="font-size: 1.1em; color: #adadad;">
-I am a developer dwelling in the deep recesses of code, specializing in Artificial Intelligence and Machine Learning. My focus is on demystifying the complex, building robust systems from abstract concepts, and exploring the very fabric of digital consciousness.
-</p>
-<p style="font-size: 1.1em; color: #adadad;">
-From the theoretical echoes of neural networks to the tangible impact of full-stack applications, my work is a fusion of logic and intuition.
-</p>
-</td>
-<!-- RIGHT CELL: GITHUB STATS CARD -->
-<td width="40%" valign="top" style="border: none; padding-left: 10px;">
-<a href="https://github.com/phinixmorgan">
-<img
-src="https://github-readme-stats.vercel.app/api?username=phinixmorgan&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9400D3&icon_color=9400D3&text_color=c9c9c9"
-alt="Phinix Morgan's GitHub Stats"
-style="width: 100%;"
-/>
-</a>
-</td>
-</tr>
-</table>
-
-<!-- 4. MYSTICAL SEPARATOR -->
-
-<div align="center" style="margin: 30px 0;">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/assets/hr.svg" alt="Mystical Divider" width="100%">
-</div>
-
-<!-- 5. ABOUT ME SECTION -->
-
-<h2 align="center" style="font-size: 2em; color: #9400D3; border-bottom: 2px solid #6a0dad;">🔮 About Me 🔮</h2>
-<p align="center" style="font-size: 1.2em; color: #adadad; max-width: 800px; margin: auto;">
-I see code as a modern form of alchemy. My passion lies in training deep learning models that perceive the world in novel ways and engineering systems that are not just functional, but resilient and scalable. I am constantly learning, experimenting, and pushing the boundaries of what's possible at the intersection of human ingenuity and machine intelligence.
-</p>
-
-
-
-
-
-<ul align="center" style="list-style-type: '✧'; padding-left: 0; display: table; margin: auto; font-size: 1.1em; color: #adadad;">
-<li style="padding: 5px 0;">Currently conjuring solutions with <b>Python, PyTorch, and Rust</b>.</li>
-<li style="padding: 5px 0;">Researching <b>Generative Models & Explainable AI (XAI)</b>.</li>
-<li style="padding: 5px 0;">Seeking to collaborate on projects that challenge convention.</li>
-</ul>
-
-<!-- 6. TECH STACK SECTION -->
-
-<h2 align="center" style="font-size: 2em; color: #9400D3; border-bottom: 2px solid #6a0dad; margin-top: 40px;">🧬 My Grimoire of Technologies 🧬</h2>
-<table width="100%" border="0" cellpadding="10" cellspacing="0" style="margin-top: 20px; border: none; background-color: #0d1117;">
-<tr>
-<td align="center">
-<h3 style="color: #c9c9c9; font-weight: 600;">Core & AI/ML</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,scikitlearn,pandas,numpy,opencv&theme=dark" alt="Core AI/ML Skills" />
-</p>
-</td>
-<td align="center">
-<h3 style="color: #c9c9c9; font-weight: 600;">Backend & Systems</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=rust,cpp,go,nodejs,fastapi,postgres,mysql,redis&theme=dark" alt="Backend & Systems Skills" />
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3 style="color: #c9c9c9; font-weight: 600;">Frontend & Full-Stack</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,svelte&theme=dark" alt="Frontend Skills" />
-</p>
-</td>
-<td align="center">
-<h3 style="color: #c9c9c9; font-weight: 600;">DevOps & Tools</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,linux,bash&theme=dark" alt="DevOps & Tools" />
-</p>
-</td>
-</tr>
-</table>
-
-<!-- 7. GITHUB STATS & STREAK -->
-
-<h2 align="center" style="font-size: 2em; color: #9400D3; border-bottom: 2px solid #6a0dad; margin-top: 40px;">📊 My Digital Footprint 📊</h2>
-<table width="100%" border="0" cellpadding="10" cellspacing="0" style="margin-top: 20px; border: none;">
-<tr>
-<td width="50%" valign="top" align="center" style="border: none;">
-<!-- TOP LANGUAGES -->
-<a href="https://github.com/phinixmorgan">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=phinixmorgan&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=9400D3&icon_color=9400D3&text_color=c9c9c9"
-alt="Phinix Morgan's Top Languages"
-style="width: 100%; max-width: 450px;"
-/>
-</a>
-</td>
-<td width="50%" valign="top" align="center" style="border: none;">
-<!-- STREAK STATS -->
-<a href="https://github.com/phinixmorgan">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=phinixmorgan&theme=onedark&hide_border=true&background=0D1117&ring=9400D3&fire=9400D3&currStreakLabel=c9c9c9"
-alt="Phinix Morgan's GitHub Streak"
-style="width: 100%; max-width: 450px;"
-/>
-</a>
-</td>
-</tr>
-</table>
-
-<!-- 8. FEATURED PROJECTS -->
-
-<h2 align="center" style="font-size: 2em; color: #9400D3; border-bottom: 2px solid #6a0dad; margin-top: 40px;">📜 Featured Incantations (Projects) 📜</h2>
-<table width="100%" border="0" cellpadding="15" cellspacing="0" style="margin-top: 20px; border: none; border-collapse: separate; border-spacing: 0 15px;">
-<!-- PROJECT 1 -->
-<tr style="background-color: #161B22; border-radius: 10px;">
-<td style="border: 1px solid #30363d; border-radius: 10px;">
-<h3 style="margin-top: 0; margin-bottom: 10px; color: #c9c9c9;">Project Caelus: Generative Sky Oracle</h3>
-<p style="color: #adadad;">A deep learning model trained on terabytes of astronomical data to generate procedural night skies and predict celestial events. Built with PyTorch, FastAPI, and visualized with Three.js.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Badge">
-</p>
-</td>
-</tr>
-<!-- PROJECT 2 -->
-<tr style="background-color: #161B22; border-radius: 10px;">
-<td style="border: 1px solid #30363d; border-radius: 10px;">
-<h3 style="margin-top: 0; margin-bottom: 10px; color: #c9c9c9;">RuneCore: AOT Compiler in Rust</h3>
-<p style="color: #adadad;">An experimental Ahead-of-Time compiler for a custom-designed, systems-level language. Focuses on memory safety and high-performance concurrency patterns. A deep dive into language theory and low-level systems.</p>
-<p>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
-<img src="https://img.shields.io/badge/LLVM-333333?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM Badge">
-<img src="https://img.shields.io/badge/Compilers-800000?style=for-the-badge&logoColor=white" alt="Compilers Badge">
-</p>
-</td>
-</tr>
-</table>
-
-<!-- 9. CONNECT WITH ME -->
-
-<div align="center" style="margin-top: 40px;">
-<h2 style="font-size: 2em; color: #9400D3; border-bottom: 2px solid #6a0dad; display: inline-block; padding-bottom: 5px;">🌙 Connect with Me 🌙</h2>
-<p style="font-size: 1.2em; color: #adadad; margin-top: 15px;">Find me traversing the digital planes:</p>
-<p>
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/YOUR_USERNAME" target="blank">
-<img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
-</a>
-&nbsp;&nbsp;
-<a href="https://YOUR_WEBSITE.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtaGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1nbG9iZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmE4LjQgOC40IDAgMCAwIDAgMTkuMSAxMi4xIDEyLjEgMCAwIDEgMC0xOS4xWiIvPjxwYXRoIGQ9Ik0yIDEyaDE4Ii8+PC9zdmc+&logoColor=white" alt="Portfolio Badge">
-</a>
-</p>
-</div>
-
-<!--
-
-END OF README
-
--->
