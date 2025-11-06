@@ -18,7 +18,7 @@
     </td>
     <td valign="top" width="40%" align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 15px; box-shadow: 0 0 25px rgba(148,0,211,0.3); padding: 12px;">
       <br><br>
-      <img src="https://streak-stats.demolab.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" width="380" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.vercel.app/?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" width="380" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
