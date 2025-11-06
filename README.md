@@ -111,7 +111,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4&cache_seconds=1800" alt="GitHub Stats" /></td>
       <td><img src="https://streak-stats.demolab.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" alt="GitHub Streak" /></td>
     </tr>
   </table>
