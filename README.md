@@ -16,10 +16,10 @@
       <p><i>⚡ <b>$ initiate Phinix --protocol=oracle</b> Constructing futures beyond human latency.<br>
       Silence isn’t absence — it’s compression of infinite thought.</i></p>
     </td>
-    <td valign="top" width="40%" align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 15px; box-shadow: 0 0 25px rgba(148,0,211,0.3); padding: 12px;">
+   <!-- <td valign="top" width="40%" align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 15px; box-shadow: 0 0 25px rgba(148,0,211,0.3); padding: 12px;">
       <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" width="380" alt="GitHub Streak" />
-    </td>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" width="380" alt="GitHub Streak" />
+    </td> -->
   </tr>
 </table>
 
@@ -112,7 +112,7 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4&cache_seconds=1800" alt="GitHub Stats" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" alt="GitHub Streak" /></td>
+     <!-- <td><img src="https://streak-stats.demolab.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" alt="GitHub Streak" /></td> -->
     </tr>
   </table>
 
