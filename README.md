@@ -1,3 +1,17 @@
+<!-- DYNAMIC HEADER: Auto-updates with Capsule Render -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Phinix%20Morgan&fontSize=70&color=0:9400D3,50:8A2BE2,100:4B0082&fontColor=fff&stroke=8A2BE2&strokeWidth=2&animation=twinkling&fontAlignY=55&desc=Quantum%20Architect%20%7C%20Silence%20in%20Motion&descAlignY=70" width="100%" alt="Dynamic Header"/>
+</div>
+
+<!-- LIVE TYPING: Updates every refresh -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Initializing+Phinix+Protocol...;System+Status%3A+ONLINE+%7C+Mode%3A+QUANTUM;Loading+neural+pathways...+%E2%9C%94%EF%B8%8F;Silence+compression%3A+99.8%25+complete" alt="Live Status" />
+</div>
+
+
+
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&height=100&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty.;Phinix+Morgan+//+Silence+in+Motion." alt="Typing Banner" />
 </div>
@@ -94,31 +108,10 @@
 
 ---
 
-## 🧠✨ Most Used Languages
-
-<div align="center" style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 15px; box-shadow: 0 0 25px rgba(148,0,211,0.3); padding: 25px 40px; width: 90%; max-width: 800px; text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Languages+that+power+my+creations+💻;Crafted+with+logic+and+passion+⚡" alt="Typing SVG" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phinix-Morgan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" alt="Phinix's Most Used Languages" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Code%20Essence-💜%20C%2B%2B%20|%20Python%20|%20JavaScript%20🔥-0D1117?style=for-the-badge&labelColor=8A2BE2" alt="Languages Badge" />
-</div>
 
 ---
 
-## 📊 GitHub Analytics & Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Phinix-Morgan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4&cache_seconds=1800" alt="GitHub Stats" /></td>
-     <!-- <td><img src="https://streak-stats.demolab.com?user=Phinix-Morgan&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakNum=FF69B4&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FF69B4&dates=FFFFFF" alt="GitHub Streak" /></td> -->
-    </tr>
-  </table>
-
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Phinix-Morgan&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 ---
 
@@ -145,4 +138,17 @@
   <hr style="border: none; height: 2px; background: linear-gradient(90deg, #9400D3, #1a1b27, #9400D3);">
   <h3>✨ Stay aware. Stay distant. ✨</h3>
 </div>
+
+
+
+
+
+
+
+<!-- DYNAMIC FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:9400D3&height=150&section=footer&text=Stay%20aware.%20Stay%20distant.&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" alt="Dynamic Footer"/>
+</div>
+
+
 
