@@ -79,31 +79,169 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🧠 Neural Nexus</h3>
-      <p align="center"><i>Experimental AI framework for deep learning exploration</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⚡ Silent Engine</h3>
-      <p align="center"><i>High-performance core for intelligent data computation</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌌 Cosmic DB</h3>
-      <p align="center"><i>Distributed system for astronomical-scale data orchestration</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 Recruiter Agent</h3>
+
+<p align="center">
+<i>AI-powered recruitment automation platform that screens resumes with Gemini, manages applicants, integrates with Gmail, and streamlines hiring through human-in-the-loop approval workflows.</i>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-AI-8E75B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Phinix-Morgan/recruiter-agent">
+<b>🔗 View Project</b>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🏠 House Price Predictor X</h3>
+
+<p align="center">
+<i>Production-ready Flask web application for house price prediction using Scikit-Learn with Dockerized deployment and an interactive analytics dashboard.</i>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Phinix-Morgan/house-price-predictor-x">
+<b>🔗 View Project</b>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">💼 Salary Classifier</h3>
+
+<p align="center">
+<i>Production-ready salary band classification system built with Flask, Scikit-Learn, Logistic Regression, Docker, and an interactive analytics dashboard.</i>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Phinix-Morgan/salary-classifier">
+<b>🔗 View Project</b>
+</a>
+</p>
+
+</td>
+
   </tr>
+
+  <tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌱 Smart Irrigation AI</h3>
+
+<p align="center">
+<i>End-to-end AI irrigation prediction system leveraging machine learning to optimize water usage based on soil and environmental parameters.</i>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Phinix-Morgan/smart-irrigation-ai">
+<b>🔗 View Project</b>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌍 DeepTravel</h3>
+
+<p align="center">
+<i>A full-stack travel planning platform built with React, Express.js, MongoDB, JWT authentication, role-based access control, and a modern responsive UI.</i>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/Phinix-Morgan/DeepTravel">
+<b>🔗 View Project</b>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🚀 More Coming...</h3>
+
+<p align="center">
+<i>Currently building AI Agents, LLM-powered applications, automation workflows, backend systems, and production-ready machine learning solutions.</i>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-9400D3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
+⭐ Stay tuned...
+</p>
+
+</td>
+
+  </tr>
+
 </table>
 
 ---
