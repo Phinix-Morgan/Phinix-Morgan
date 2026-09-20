@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&height=100&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty.;Phinix+Morgan+//+Silence+in+Motion.;Fuck+LinkedIn.;Fuck+LinkedIn.;Fuck+LinkedIn.;Even+Harder...;More...;More...;Fuck+LinkedIn.;Fuck+LinkedIn." alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&height=100&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty.;Phinix+Morgan+//+Silence+in+Motion.;Fuck+LinkedIn.;Fuck+You+LinkedIn..this+time+even+harder...;More...+and+...More...;Fuck+You+again.;Fuck+LinkedIn." alt="Typing Banner" />
 </div>
 
 ---
@@ -22,7 +22,7 @@
   <tr>
     <td valign="top" width="65%">
       <h1>
-        <b>Hi, I'm Phinix Morgan</b>
+        <b>Hi, I'm Phinix Morgan,</b> and there is nothing i hate more then LinkedIn.  
         <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Waving hand" />
       </h1>
       <p><i>⚡ <b>$ run Phinix --mode:quantum</b> Building futures no one else dares to imagine.<br>
