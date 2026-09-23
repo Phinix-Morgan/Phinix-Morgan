@@ -5,7 +5,7 @@
 
 <!-- LIVE TYPING: Updates every refresh -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Initializing+Phinix+Protocol...;System+Status%3A+ONLINE+%7C+Mode%3A+QUANTUM;Fuck+You+LinkedIn+from+the+bottom+of+my+heart.+%E2%9C%94%EF%B8%8F;Silence+compression%3A+99.8%25+complete" alt="Live Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Initializing+Phinix+Protocol...;System+Status%3A+ONLINE+%7C+Mode%3A+QUANTUM;I+Hate+LinkedIn+From+The+Bottom+Of+My+Heart.+%E2%9C%94%EF%B8%8F;Silence+compression%3A+99.8%25+complete" alt="Live Status" />
 </div>
 
 
