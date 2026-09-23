@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&height=100&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty.;Phinix+Morgan+//+Silence+in+Motion.;Fuck+LinkedIn.;Fuck+You+LinkedIn..this+time+even+harder...;More...+and+...More...;Fuck+You+again.;Fuck+LinkedIn." alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=1000&height=100&lines=%E2%80%9CControl+is+in+silence.%E2%80%9D;...but+silence+is+never+empty.;Phinix+Morgan+//+Silence+in+Motion.;" alt="Typing Banner" />
 </div>
 
 ---
